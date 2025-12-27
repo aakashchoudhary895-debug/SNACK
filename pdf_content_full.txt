@@ -1,0 +1,45 @@
+HEALTHIER SNACK CHIP DEVELOPMENT: A COMPREHENSIVE RESEARCH REPORT
+
+COMPLETE CONTENT STRUCTURE:
+1. Title Page
+2. Abstract
+3. Introduction
+4. Literature Review
+   - Acrylamide in Processed Foods
+   - Dietary Fiber and its Importance in Snacks
+   - Glycemic Index, Sodium, and Lipid Oxidation
+5. Objectives of the Study
+6. Materials and Methods
+7. Results and Discussion
+8. Conclusion
+9. References
+10. Appendices
+
+KEY SECTIONS TO IMPLEMENT:
+- Abstract: Overview of research findings
+- Introduction: Market context and health concerns
+- Literature Review: Scientific background on acrylamide, fiber, glycemic index, sodium, lipid oxidation
+- Objectives: 5 specific research objectives
+- Methodology: Sample analysis, testing procedures
+- Results: Comparative data on commercial vs prototype samples
+- Discussion: Analysis of findings and implications
+- Conclusion: Summary of achievements
+- References: Scientific citations
+- Appendices: Raw data tables
+
+MAIN FINDINGS:
+- Fried chips: 1,245 μg/kg acrylamide, 34.2 g/100g fat
+- Baked commercial: 250-500 μg/kg acrylamide, 15-20 g/100g fat
+- Prototypes: <125 μg/kg acrylamide, <11.5 g/100g fat, >9.5 g/100g fiber
+- Cost savings: 52% reduction vs commercial products
+- Consumer acceptability: Comparable to commercial baked snacks
+
+COMMERCIAL SAMPLES TESTED:
+1. Too Yumm! Multigrain Chips (fried)
+2. Lays American Style Cream & Onion (fried)
+3. Healthy Master Baked Ragi Chips (baked)
+4. Healthy Binge Baked Ragi Chips (baked)
+
+PROTOTYPES DEVELOPED:
+1. PB-01: Potato-Chickpea Flour Chip (baked at 160°C)
+2. RB-02: Ragi-Oat Flour Chip (baked at 160°C)
